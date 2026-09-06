@@ -4,7 +4,7 @@ This code will print the nword but with the gemination replaced through it's 20 
 ## getting started
 
 ### First
-to use this code you might start from the begin, the first step is typing **git clone https://github.com/untermischling/nibber** on your terminal.
+to use this code you might start from the begin, the first step is typing '''**git clone https://github.com/untermischling/nibber**''' on your terminal.
 
 ### Second
 
